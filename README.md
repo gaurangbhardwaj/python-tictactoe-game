@@ -1,4 +1,4 @@
-# Python Tic Tac Toe game
+# Python Tic-Tac-Toe game
 A simple console based TicTacToe game in Python
 
 # Implementation
